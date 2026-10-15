@@ -3,7 +3,7 @@
 ## À propos de moi
 Je suis un développeur passionné par le Code. J'aime apprendre de nouvelles choses et partager mes connaissances avec la communauté. Voici quelques-unes de mes compétences et intérêts:
 
-- **Langages de programmation**: Python, JavaScript, C#, Html
+- **Langages de programmation**: Python, JavaScript, C#, Html, Php
 - **Intérêts**: Développement Web, Machine Virtuelle, Open Source, Adressage Ip réseaux, Configuration : Logiciel de Streaming
   ![image](https://github.com/user-attachments/assets/ab1878a0-5400-4772-be6f-97e56be383dd)
 
